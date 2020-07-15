@@ -1,10 +1,17 @@
+#my_changes
+.gitignore
+.DS_Store
+.ipynb_checkpoints
+VacationPy/.ipynb_checkpoints
+WeatherPy/.ipynb_checkpoints
+VacationPy/api_keys.py
+WeatherPy/api_keys.py
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
-
-# C extensions
-*.so
 
 # Distribution / packaging
 .Python
